@@ -1,0 +1,13 @@
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\bin\Debug\netcoreapp3.1\myNetApp.exe
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\bin\Debug\netcoreapp3.1\myNetApp.deps.json
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\bin\Debug\netcoreapp3.1\myNetApp.runtimeconfig.json
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\bin\Debug\netcoreapp3.1\myNetApp.runtimeconfig.dev.json
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\bin\Debug\netcoreapp3.1\myNetApp.dll
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\bin\Debug\netcoreapp3.1\myNetApp.pdb
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\obj\Debug\netcoreapp3.1\myNetApp.csprojAssemblyReference.cache
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\obj\Debug\netcoreapp3.1\myNetApp.AssemblyInfoInputs.cache
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\obj\Debug\netcoreapp3.1\myNetApp.AssemblyInfo.cs
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\obj\Debug\netcoreapp3.1\myNetApp.csproj.CoreCompileInputs.cache
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\obj\Debug\netcoreapp3.1\myNetApp.dll
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\obj\Debug\netcoreapp3.1\myNetApp.pdb
+C:\Users\hi tech\Desktop\git\dotnet\myNetApp\obj\Debug\netcoreapp3.1\myNetApp.genruntimeconfig.cache
